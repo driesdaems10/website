@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dries Daems</title>
+    <link>/author/dries-daems/</link>
+      <atom:link href="/author/dries-daems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dries Daems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright>
+    <image>
+      <url>/author/dries-daems/avatar_hu3c610bb41e40063029d91f0079148825_78913_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Dries Daems</title>
+      <link>/author/dries-daems/</link>
+    </image>
+    
+  </channel>
+</rss>

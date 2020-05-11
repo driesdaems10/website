@@ -1,48 +1,49 @@
 ---
 authors:
-- admin
+- dries-metu
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Archaeology
+    institution: University of Leuven
+    year: 2018
+  - course: MA in Archaeology
+    institution: University of Leuven
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BA in Archaeology
+    institution: University of Leuven
+    year: 2011
+email: "daems.dries@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Complexity
+- Digital Archaeology
+- Agent-Based Modelling
+- Urbanism
+- Human-Environment Interactions
+- Iron Age to Hellenistic Pottery
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Middle East Technical University
+  url: "http://sa.metu.edu.tr/"
+role: Assistant Professor in Settlement Archaeology and Digital Archaeology
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DriesDaems
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=BAkWQ1AAAAAJ&hl=nl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/driesdaems10
 superuser: true
-title: Nelson Bighetti
+title: Dries Daems
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dries Daems is Assistant Professor at the Graduate School of Social Sciences in the M.Sc. program of Settlement Archaeology at Middle East Technical University (METU) in Ankara. He is also coördinator of the M.Sc. program of Digital ARchaeology at METU. His research interests include the study of social complexity and urbanism through digital techniques such as comoutational modelling (ABM) and material studies (pottery analysis). He specialises in Iron Age to Hellenistic Anatolia and the Eastern Mediterranean.
