@@ -14,22 +14,42 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Agent-based modelling (NetLogo)"
+  description = "+++"
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Data science (R)"
+  description = "++"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "globe-europe"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "GIS (QGIS)"
+  description = "+++"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Network Science (Visone/Gephi)"
+  description = "++"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database Management (Neo4j/Access)"
+  description = "++"
+  
+[[feature]]
+  icon = "clipboard"
+  icon_pack = ""
+  name = "Macroscopic Pottery Studies"
+  description = "+++"
+
 
 +++
