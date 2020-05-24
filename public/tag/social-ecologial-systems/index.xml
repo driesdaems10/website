@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social-ecologial systems | Dries Daems</title>
+    <link>/tag/social-ecologial-systems/</link>
+      <atom:link href="/tag/social-ecologial-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>social-ecologial systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Fri, 21 Feb 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>social-ecologial systems</title>
+      <link>/tag/social-ecologial-systems/</link>
+    </image>
+    
+    <item>
+      <title>Poznan Workshop</title>
+      <link>/talk/poznan/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/poznan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

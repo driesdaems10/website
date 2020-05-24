@@ -55,25 +55,27 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>ReSoC 2020</title>
+      <link>/talk/resoc/</link>
+      <pubDate>Mon, 30 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/resoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poznan Workshop</title>
+      <link>/talk/poznan/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/poznan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAG 2019</title>
+      <link>/talk/tag19/</link>
+      <pubDate>Mon, 16 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/tag19/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -317,6 +319,14 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CAA 2019</title>
+      <link>/talk/caa19/</link>
+      <pubDate>Tue, 23 Apr 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/caa19/</guid>
+      <description></description>
     </item>
     
     <item>

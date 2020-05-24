@@ -5,12 +5,28 @@
     <link>/tag/human-environment-interactions/</link>
       <atom:link href="/tag/human-environment-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>human-environment interactions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Mon, 30 Nov 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>human-environment interactions</title>
       <link>/tag/human-environment-interactions/</link>
     </image>
+    
+    <item>
+      <title>ReSoC 2020</title>
+      <link>/talk/resoc/</link>
+      <pubDate>Mon, 30 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/resoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poznan Workshop</title>
+      <link>/talk/poznan/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/poznan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sustainability and Resilience in Past and Present Populations (SuRP&#43;)</title>

@@ -5,12 +5,20 @@
     <link>/tag/sustainability/</link>
       <atom:link href="/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <description>sustainability</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Fri, 21 Feb 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>sustainability</title>
       <link>/tag/sustainability/</link>
     </image>
+    
+    <item>
+      <title>Poznan Workshop</title>
+      <link>/talk/poznan/</link>
+      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/poznan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sustainability and Resilience in Past and Present Populations (SuRP&#43;)</title>

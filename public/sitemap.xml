@@ -18,13 +18,88 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/tag/agent-based-modelling/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dries-daems/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/human-environment-interactions/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/resoc/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/resource-exploitation/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-complexity/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/poznan/</loc>
+    <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/raw-material-procurement/</loc>
+    <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-ecologial-systems/</loc>
+    <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sustainability/</loc>
+    <lastmod>2020-02-21T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/inequality/</loc>
+    <lastmod>2019-12-16T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information/</loc>
+    <lastmod>2019-12-16T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/tag19/</loc>
+    <lastmod>2019-12-16T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/urbanism/</loc>
+    <lastmod>2019-12-16T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,11 +128,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -73,6 +143,16 @@
   </url>
   
   <url>
+    <loc>/talk/caa19/</loc>
+    <lastmod>2019-04-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/polis/</loc>
+    <lastmod>2019-04-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -80,11 +160,6 @@
   <url>
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,17 +213,7 @@
   </url>
   
   <url>
-    <loc>/tag/human-environment-interactions/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/resilience/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sustainability/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
