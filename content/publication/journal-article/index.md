@@ -1,49 +1,31 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article surveys a number of approaches in complex systems thinking and their relevance for applications in the field of archaeology. It focuses in particular on the fundamental role of social interactions and information transmission as constituent elements for the development of organizational complexity on a community level. Given the impossibility of direct observations of these constituent interactions and practices, it is then outlined how this theoretical model can be applied on the material remains found in the archaeological record. It is discussed how material surroundings – including architectural structures and material objects – are used to shape and structure social interactions and practices in various ways. It is shown how complex organizational structures develop through underlying mechanisms of change such as diversification, connectivity and standardization, and how these can be applied in archaeological case studies. The presented framework will thus show how structures of social organization and development of social complexity can be inferred from the archaeological record.
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
+- dries-metu
+date: "2019-02-01T00:00:00Z"
+doi: "https://doi.org/10.1177%2F1059712319826539"
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'On Complex Archaeologies in **Adaptive Behavior**'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Adaptive Behavior*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2019-02-01T00:00:00Z"
+summary: This article surveys a number of approaches in complex systems thinking and their relevance for applications in the field of archaeology. The presented framework shows how structures of social organization and development of social complexity can be inferred from the archaeological record.
 tags:
-- Source Themes
-title: An example journal article
+- Social complexity
+- Complex systems
+title: On Complex Archaeologies
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "files/AB.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

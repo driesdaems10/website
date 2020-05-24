@@ -45,4 +45,4 @@ user_groups:
 - Visitors
 ---
 
-Dries Daems is Assistant Professor at the Graduate School of Social Sciences in the M.Sc. program of Settlement Archaeology at Middle East Technical University (METU) in Ankara. He is also coördinator of the M.Sc. program of Digital ARchaeology at METU. His research interests include the study of social complexity and urbanism through digital techniques such as comoutational modelling (ABM) and material studies (pottery analysis). He specialises in Iron Age to Hellenistic Anatolia and the Eastern Mediterranean.
+Dries Daems is Assistant Professor at the Graduate School of Social Sciences in the M.Sc. program of Settlement Archaeology at Middle East Technical University (METU) in Ankara. He is also coördinator of the M.Sc. program of Digital Archaeology at METU. His research interests include the study of social complexity and urbanism through digital techniques such as comoutational modelling (ABM) and material studies (pottery analysis). He specialises in Iron Age to Hellenistic Anatolia and the Eastern Mediterranean.

@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Dries Daems"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "dt-saga.jpg"
+hero_media = "image001.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "dt-saga.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "gainsboro"
+  # color = "gainsboro"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -56,8 +56,6 @@ hero_media = "dt-saga.jpg"
 +++
 
 **Assistant Professor at METU**  
-**Visiting Professor at University of Leuven**  
-**Researcher with Sagalassos Project**
-
-*Follow my latest works here*
+**Visiting Professor at KU Leuven**  
+**Material specialist at Sagalassos Project**
 

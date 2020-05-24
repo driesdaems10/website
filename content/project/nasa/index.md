@@ -5,7 +5,7 @@ image:
   caption:
   focal_point: Smart
 slides:
-summary: An international research network to promote and advance the usage of agnet-based modelling in archaeology.
+summary: An international research network to promote and advance the usage of agent-based modelling in archaeology.
 tags:
 - ABM
 - socio-ecological systems

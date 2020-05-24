@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connectivity | Dries Daems</title>
+    <link>/category/connectivity/</link>
+      <atom:link href="/category/connectivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connectivity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Connectivity</title>
+      <link>/category/connectivity/</link>
+    </image>
+    
+    <item>
+      <title>Anticipating life after the COVID-19 pandemic: Reconceptualising connectivity</title>
+      <link>/post/covid-connectivity/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/covid-connectivity/</guid>
+      <description>&lt;p&gt;TEXT TO BE UPLOADED&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-connectivity&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;&#34; data-caption=&#34;Connectivity.&#34;&gt;
+
+
+  &lt;img src=&#34;&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Connectivity.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2020-present 
+&lt;a href=&#34;https://driesdaems.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dries Daems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/driesdaems10/website/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

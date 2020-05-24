@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>social complexity | Dries Daems</title>
+    <title>Social Complexity | Dries Daems</title>
     <link>/tag/social-complexity/</link>
       <atom:link href="/tag/social-complexity/index.xml" rel="self" type="application/rss+xml" />
-    <description>social complexity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Mon, 30 Nov 2020 13:00:00 +0000</lastBuildDate>
+    <description>Social Complexity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>social complexity</title>
+      <title>Social Complexity</title>
       <link>/tag/social-complexity/</link>
     </image>
+    
+    <item>
+      <title>Adaptive cycles in archaeology. Indicators of change and stability in socio-economic systems.</title>
+      <link>/publication/c1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/c1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReSoC 2020</title>
@@ -37,10 +45,34 @@
     </item>
     
     <item>
+      <title>Building communities</title>
+      <link>/publication/jaa/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modelling Approaches to Complexity Science. A Manifesto</title>
+      <link>/publication/traj/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/traj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CAA 2019</title>
       <link>/talk/caa19/</link>
       <pubDate>Tue, 23 Apr 2019 13:00:00 +0000</pubDate>
       <guid>/talk/caa19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Complex Archaeologies</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
       <description></description>
     </item>
     

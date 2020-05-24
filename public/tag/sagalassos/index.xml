@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sagalassos | Dries Daems</title>
+    <link>/tag/sagalassos/</link>
+      <atom:link href="/tag/sagalassos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sagalassos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sagalassos</title>
+      <link>/tag/sagalassos/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive cycles in archaeology. Indicators of change and stability in socio-economic systems.</title>
+      <link>/publication/c1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/c1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building communities</title>
+      <link>/publication/jaa/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hellenistic Pottery Repertoire made at Sagalassos.</title>
+      <link>/publication/iarpothp/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/iarpothp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
