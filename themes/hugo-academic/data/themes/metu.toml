@@ -1,0 +1,18 @@
+# Theme metadata
+name = "metu"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#E74C3C"
+
+# Menu
+menu_primary = "#E74C3C"
+menu_text = "#050606"
+menu_text_active = "#050606"
+menu_title = "#050606"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
