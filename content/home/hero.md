@@ -55,7 +55,7 @@ hero_media = "image001.jpg"
 
 +++
 
-**Assistant Professor at METU**  
-**Visiting Professor at KU Leuven**  
-**Material specialist at Sagalassos Project**
+Assistant Professor at METU  
+Visiting Professor at KU Leuven  
+Material specialist at Sagalassos Project
 

@@ -26,26 +26,21 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Social Complexity"
-    tag = "Social Complexity"
+    name = "ABM"
+    tag = "ABM"  
   
   [[content.filter_button]]
-    name = "ABM"
-    tag = "ABM"
+    name = "Social Complexity"
+    tag = "Social Complexity"
     
   [[content.filter_button]]
-    name = "Pottery"
-    tag = "Pottery"
+    name = "Material Studies"
+    tag = "Material Studies"
     
   [[content.filter_button]]
     name = "Urbanism"
     tag = "Urbanism"
     
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
-
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
