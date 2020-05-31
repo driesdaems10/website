@@ -5,48 +5,56 @@
     <link>/author/dries-daems/</link>
       <atom:link href="/author/dries-daems/index.xml" rel="self" type="application/rss+xml" />
     <description>Dries Daems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Mon, 30 Nov 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hub549ed09b3491903d0e1e250e82c34d1_24308_512x512_fill_lanczos_center_2.png</url>
+      <url>/author/dries-daems/avatar_hu3c610bb41e40063029d91f0079148825_78913_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Dries Daems</title>
       <link>/author/dries-daems/</link>
     </image>
     
     <item>
-      <title>ReSoC 2020</title>
-      <link>/talk/resoc/</link>
-      <pubDate>Mon, 30 Nov 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/resoc/</guid>
+      <title>Adaptive cycles in archaeology. Indicators of change and stability in socio-economic systems.</title>
+      <link>/publication/c1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/c1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poznan Workshop</title>
-      <link>/talk/poznan/</link>
-      <pubDate>Fri, 21 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/poznan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TAG 2019</title>
-      <link>/talk/tag19/</link>
-      <pubDate>Mon, 16 Dec 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/tag19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAA 2019</title>
-      <link>/talk/caa19/</link>
-      <pubDate>Tue, 23 Apr 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/caa19/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
- Connectivity.
+      <title>Anticipating life after the COVID-19 pandemic: Reconceptualising connectivity</title>
+      <link>/post/covid-connectivity/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/covid-connectivity/</guid>
+      <description>&lt;p&gt;TEXT TO BE UPLOADED&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-connectivity&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;&#34; data-caption=&#34;Connectivity.&#34;&gt;
+
+
+  &lt;img src=&#34;&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Connectivity.
   &lt;/figcaption&gt;
 
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>urbanism | Dries Daems</title>
+    <title>Urbanism | Dries Daems</title>
     <link>/tag/urbanism/</link>
       <atom:link href="/tag/urbanism/index.xml" rel="self" type="application/rss+xml" />
-    <description>urbanism</description>
+    <description>Urbanism</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Mon, 16 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hub549ed09b3491903d0e1e250e82c34d1_24308_512x512_fill_lanczos_center_2.png</url>
-      <title>urbanism</title>
+      <title>Urbanism</title>
       <link>/tag/urbanism/</link>
     </image>
     
@@ -18,6 +18,20 @@
       <pubDate>Mon, 16 Dec 2019 13:00:00 +0000</pubDate>
       <guid>/talk/tag19/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Polis formation and synoikismos in southwest Anatolia</title>
+      <link>/project/polis-akmed/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/polis-akmed/</guid>
+      <description>&lt;p&gt;This project studies polis formation and synoikismos in southwestern Anatolia (covering the ancient regions of Lycia, Pamphylia and Pisidia) during Achaemenid and Hellenistic times. It aims to identify all attestations of synoiksimos and critically compare these with the associated archaeological material. By cross-checking historical and archaeological evidence, we hope to identify potential archaeological proxies to identify and interpret these processes as part of a wider set of strategies in the interaction space between local communities and central government.&lt;br&gt;
+Relevant publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daems, D. (In press) Between cities and kings. Polis formation in southwest Anatolia during the Hellenistic period. In: Disono, F. and D. Maschek (eds.) &lt;em&gt;Beyond Hybridity and Code-Switching: Material Approaches to Cultural Concurrences in the Late Hellenistic Mediterranean&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Daems. D (In press) Reassessing the origin of polis in Lycia and southwest Anatolia. &lt;em&gt;Adalya&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
