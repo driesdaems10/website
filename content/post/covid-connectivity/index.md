@@ -5,7 +5,7 @@ categories:
 - Connectivity
 - Opinion
 date: "2020-06-30T00:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: 'Image credit: [**DataCenterNews**](https://datacenternews.asia/story/centurylink-expands-network-connectivity-options-global-data-centre-customers)'
