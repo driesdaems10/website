@@ -4,7 +4,7 @@ authors:
 - dries-metu
 date: "2019-12-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jaa.2019.101110"
-featured: true
+featured: false
 image:
   caption: 'Building Communities in **Journal of Anthropological Archaeology**'
   focal_point: ""
@@ -13,7 +13,7 @@ projects: []
 publication: '*Journal of Anthropological Archaeology*'
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2019-12-01T00:00:00Z"
 summary: In this paper, a model of community formation and organizational complexity is presented, focusing on the fundamental role of social interactions and information transmission for the development of complex social organisation.
 tags:

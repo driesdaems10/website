@@ -4,7 +4,7 @@ authors:
 - dries-metu
 date: "2019-02-01T00:00:00Z"
 doi: "https://doi.org/10.1177%2F1059712319826539"
-featured: true
+featured: false
 image:
   caption: 'On Complex Archaeologies in **Adaptive Behavior**'
   focal_point: ""

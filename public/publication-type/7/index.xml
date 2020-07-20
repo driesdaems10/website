@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Dries Daems</title>
+    <link>/publication-type/7/</link>
+      <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub549ed09b3491903d0e1e250e82c34d1_24308_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive cycles in archaeology. Indicators of change and stability in socio-economic systems.</title>
+      <link>/publication/c1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/c1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

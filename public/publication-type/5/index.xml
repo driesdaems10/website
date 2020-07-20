@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Dries Daems</title>
+    <link>/publication-type/5/</link>
+      <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub549ed09b3491903d0e1e250e82c34d1_24308_512x512_fill_lanczos_center_2.png</url>
+      <title>5</title>
+      <link>/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Social Complexity and Complex Systems</title>
+      <link>/publication/social-complexity/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/social-complexity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
