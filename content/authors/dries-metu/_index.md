@@ -16,11 +16,10 @@ education:
 email: "daems.dries@gmail.com"
 interests:
 - Social Complexity
-- Digital Archaeology
 - Agent-Based Modelling
+- Iron Age to Hellenistic Pottery
 - Urbanism
 - Human-Environment Interactions
-- Iron Age to Hellenistic Pottery
 organizations:
 - name: Middle East Technical University
   url: "http://sa.metu.edu.tr/"

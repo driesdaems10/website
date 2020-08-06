@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   description = """
   * Teaching in MA Archaeology Program
   * Coordinator of Digital Archaeology Program  
-  * Research Topics: social complexity, agent-based modelling, urbanism,  material culture
-  * Mentoring students
+  * Mentoring MA/PhD students
   """
 
 [[experience]]
@@ -38,7 +37,9 @@ date_format = "Jan 2006"
   location = "Leuven"
   date_start = "2020-10-01"
   date_end = ""
-  description = """Coordinator of Network for Agent-based Modelling in Archaeology"""
+  description = """
+  * Coordinator of Network for Agent-based Modelling in Archaeology
+  """
   
 [[experience]]
   title = "Postdoctoral researcher"
@@ -59,7 +60,9 @@ date_format = "Jan 2006"
   location = "Leuven"
   date_start = "2018-01-01"
   date_end = "2020-09-30"
-  description = """Substitute Lecturer for courses in BA and MA programs in Archaeology at University of Leuven"""
+  description = """
+  * Substitute Lecturer for courses in BA and MA programs in Archaeology at University of Leuven
+  """
 
 [[experience]]
   title = "Postdoctoral Researcher"
@@ -68,7 +71,9 @@ date_format = "Jan 2006"
   location = "Antalya"
   date_start = "2018-10-01"
   date_end = "2019-04-30"
-  description = """Research on polis formation and synoikismos in Hellenistic Anatolia."""
+  description = """
+  * Research on polis formation and synoikismos in Hellenistic Anatolia
+  """
 
 [[experience]]
   title = "Ph.D. Researcher"
@@ -77,6 +82,8 @@ date_format = "Jan 2006"
   location = "Leuven"
   date_start = "2014-10-01"
   date_end = "2018-09-30"
-  description = """Research on social complexity and polis formation in southwest Anatolia during Iron Age to Hellenistic times."""
+  description = """
+  * Research on social complexity and polis formation in southwest Anatolia during Iron Age to Hellenistic times
+  """
 
 +++

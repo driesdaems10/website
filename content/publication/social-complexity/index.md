@@ -20,7 +20,7 @@ summary: Forthcoming book about the study of social complexity using an approach
 tags:
 - Social complexity
 - Complex systems
-title: Social Complexity and Complex Systems
+title: Social Complexity and Complex Systems in Archaeology
 url_code: ""
 url_dataset: ""
 url_pdf: ""
