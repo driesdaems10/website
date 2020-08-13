@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Postdoctoral researcher"
-  company = "University of Leuven"
+  company = "University of Leuven - Funded by C1 Project"
   company_url = ""
   location = "Leuven"
   date_start = "2019-10-01"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Researcher"
-  company = "Suna & İnan Kıraç Research Centre for Mediterranean Civilizations (Koç University)"
+  company = "Suna & İnan Kıraç Research Centre for Mediterranean Civilizations (Koç University - Funded by TÜBITAK)"
   company_url = ""
   location = "Antalya"
   date_start = "2018-10-01"
@@ -77,7 +77,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D. Researcher"
-  company = "University of Leuven"
+  company = "University of Leuven - Funded by Research Foundation Flanders"
   company_url = ""
   location = "Leuven"
   date_start = "2014-10-01"

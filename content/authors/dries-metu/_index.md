@@ -5,7 +5,7 @@ bio: I am an archaeologist with a Ph.D. from University of Leuven, currently wor
 education:
   courses:
   - course: PhD in Archaeology
-    institution: University of Leuven
+    institution: University of Leuven - Funded by Research Foundation Flanders
     year: 2018
   - course: MA in Archaeology
     institution: University of Leuven
