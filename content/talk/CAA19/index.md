@@ -26,5 +26,5 @@ title: CAA 2019
 url_code: ""
 url_pdf: "files/CAA19.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=kYMpv7mBw6Q&feature=emb_logo&ab_channel=RecordingArchaeology"
 ---
