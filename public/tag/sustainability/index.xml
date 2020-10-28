@@ -5,12 +5,20 @@
     <link>/tag/sustainability/</link>
       <atom:link href="/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <description>sustainability</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Fri, 21 Feb 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Dries Daems.</copyright><lastBuildDate>Mon, 28 Sep 2020 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hub549ed09b3491903d0e1e250e82c34d1_24308_512x512_fill_lanczos_center_2.png</url>
       <title>sustainability</title>
       <link>/tag/sustainability/</link>
     </image>
+    
+    <item>
+      <title>Falling Walls Lab Leuven</title>
+      <link>/talk/fallingwalls/</link>
+      <pubDate>Mon, 28 Sep 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/fallingwalls/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poznan Workshop</title>
