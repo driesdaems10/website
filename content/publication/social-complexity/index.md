@@ -15,7 +15,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "5"
-publishDate: "Forthcoming"
+publishDate: "March 2021"
 summary: Forthcoming book about the study of social complexity using an approach built on complex systems thinking.
 tags:
 - Social complexity
@@ -27,6 +27,6 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.routledge.com/Social-Complexity-and-Complex-Systems-in-Archaeology/Daems/p/book/9780367478582"
 url_video: ""
 ---
