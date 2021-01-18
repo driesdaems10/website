@@ -8,7 +8,7 @@ doi: ""
 featured: true
 image:
   caption: 'Forthcoming publication'
-  focal_point: "BottomLeft"
+  focal_point: "Center"
   preview_only: false
 projects: []
 publication: ''
