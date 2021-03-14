@@ -14,7 +14,7 @@ projects:
 publication: "Book chapter. In: Once upon a river. Long-term change in social metabolism of the Aglasun valley."
 publication_short: ""
 publication_types:
-- "7"
+- "6"
 publishDate: "2020-12-01T00:00:00Z"
 summary: Operationalising the application of adaptive cycles in archaeology.
 tags:

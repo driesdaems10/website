@@ -13,7 +13,7 @@ projects: []
 publication: '*Journal of Anthropological Archaeology*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2019-12-01T00:00:00Z"
 summary: In this paper, a model of community formation and organizational complexity is presented, focusing on the fundamental role of social interactions and information transmission for the development of complex social organisation.
 tags:
