@@ -6,7 +6,7 @@ date: "2020-24-05T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'The adaptive cycle'
   focal_point: ""
   preview_only: false
 projects:

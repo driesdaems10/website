@@ -27,8 +27,7 @@ summary: This paper traces the impact of fossilization on inferences of ancient 
 tags:
 - networks
 - time-averaging
-title: Disentangling ecological and taphonomic signals in ancient
-food webs
+title: Disentangling ecological and taphonomic signals in ancient food webs
 url_code: ""
 url_dataset: "https://doi.org/10.5061/dryad.63xsj3v0j"
 url_pdf: "files/fossilized.pdf"
