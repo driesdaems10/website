@@ -16,7 +16,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "5"
-publishDate: "March 2021"
+publishDate: "2021-03-02T00:00:00Z"
 summary: Recent book about the study of social complexity using an approach built on complex systems thinking.
 tags:
 - Social complexity
