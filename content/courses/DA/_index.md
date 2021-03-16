@@ -20,7 +20,7 @@ weight: 1
 Dr. Dries Daems  
 daems -at- metu.edu.tr  
 Office: Faculty of Architecture, room 430  
-Office hours: Wednesdays from 9:30 to 12 AM  
+Office hours: Wednesdays 2 to 4 PM  
 Course Slack channel: SA583-DigitalArchaeology  
 
 
