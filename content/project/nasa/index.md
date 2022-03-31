@@ -10,7 +10,7 @@ tags:
 - ABM
 - socio-ecological systems
 - interdisciplinarity
-title: Network for Agent-based modelling of Socio-ecological systems in Archaeology (NASA)
+title: Network for Agent-based modelling of Socio-ecological Systems in Archaeology (NASSA)
 url_code: ""
 url_pdf: ""
 url_slides: ""
