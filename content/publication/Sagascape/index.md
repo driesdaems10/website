@@ -14,7 +14,7 @@ publication: '*Journal of Computer Applications in Archaeology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-11-20T00:00:00Z"
+publishDate: "2022-11-21T00:00:00Z"
 summary: In this paper e present SAGAscape, an agent-based model of resource exploitation and subsistence strategies to explore the human impact of hilltop settlements on the natural environment in the study area of Sagalassos (southwest Turkey) during the Iron Age to Hellenistic period.
 tags:
 - ABM
