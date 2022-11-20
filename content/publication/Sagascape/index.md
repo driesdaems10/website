@@ -1,6 +1,5 @@
 ---
-abstract: In this paper, we present SAGAscape, an agent-based model of resource exploitation and subsistence strategies to explore the human impact of hilltop settlements on the natural environment in the study area of Sagalassos (southwest Turkey) during the Iron Age to Hellenistic period. Using realistic GIS data and empirical settlement patterns as input, we simulate communities with resource exploitation strategies for three main resources: food, wood and clay. The model produces results consistent with empirical observations by simulating anthropogenic zones of human impact embedded in a forest matrix. General patterns of sustainability for most communities under most model settings can be observed. Under certain high demand settings, however, trade-offs between resource exploitation strategies start to emerge, resulting in disruption of resource stocks in certain communities. The SAGAscape model provides a suitable baseline for the assessment of socio-ecological sustainability in subsistence and resource exploitation of local communities. Through this work, we aim to advance the usage of computational modelling and simulations in Classical and Anatolian archaeology.
-
+abstract:
 authors:
 - Stef Boogers
 - dries-metu
