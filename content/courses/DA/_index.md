@@ -8,7 +8,7 @@ menu:
     name: Overview
     weight: 1
 
-summary: Introductory course to the principles, theories and methods of digital archaeology in Spring semester 2020-2021.
+summary: Introductory course to the principles, theories and methods of digital archaeology in Spring semester 2020-2021 and Fall semester 2021-2022.
 title: Syllabus SA 583 - Digital Archaeology
 toc: true
 type: docs

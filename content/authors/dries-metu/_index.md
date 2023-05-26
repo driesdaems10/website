@@ -1,7 +1,7 @@
 ---
 authors:
 - dries-metu
-bio: I am an archaeologist with a Ph.D. from University of Leuven, currently working as Assistant Professor at Middle East Technical Univesity. My research interests include social complexity, agent-based modeling and material studies.
+bio: I am an archaeologist with a Ph.D. from University of Leuven. My research interests include social complexity, urbanism, artisanal production, and human-environment interactions through computational modeling and pottery studies.
 education:
   courses:
   - course: PhD in Archaeology
@@ -21,9 +21,9 @@ interests:
 - Urbanism
 - Human-Environment Interactions
 organizations:
-- name: Middle East Technical University
-  url: "http://sa.metu.edu.tr/"
-role: Assistant Professor in Settlement Archaeology and Digital Archaeology
+- name: KU Leuven
+  url:
+role: Digital Archaeologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-Dries Daems is Assistant Professor at the Graduate School of Social Sciences in the M.Sc. program of Settlement Archaeology at Middle East Technical University (METU) in Ankara. He is also coordinator of the M.Sc. program of Digital Archaeology at METU. His research interests include the study of social complexity and urbanism through computational modeling (ABM) and material studies (macroscopic pottery analysis). He specializes in Iron Age to Hellenistic Anatolia and the Eastern Mediterranean.
+Dries Daems is an archaeologist specializing in the Iron Age to Hellenistic Mediterranean. His research interests include the study of social complexity, urbanism, artisanal production, and human-environment interactions through computational modeling and pottery studies. He has held positions at KU Leuven, Koç University, Middle East Technical University, and University of Helsinki.
