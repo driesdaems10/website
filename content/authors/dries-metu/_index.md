@@ -1,7 +1,7 @@
 ---
 authors:
 - dries-metu
-bio: I am an archaeologist with a Ph.D. from University of Leuven. My research interests include social complexity, urbanism, artisanal production, and human-environment interactions through computational modeling and pottery studies.
+bio: I am Assistant Professor in Spatial Digital Humanities at VU Amsterdam.I got my PhD in Archaeology from KU Leuven. My research interests include social complexity, urbanism, connectivity and information exchange, artisanal production, and human-environment interactions through computational modeling and pottery studies. My core research focus lies in the Hellenistic Mediterranean.
 education:
   courses:
   - course: PhD in Archaeology
@@ -17,13 +17,14 @@ email: "daems.dries@gmail.com"
 interests:
 - Social Complexity
 - Agent-Based Modelling
-- Iron Age to Hellenistic Pottery
+- Hellenistic Pottery
 - Urbanism
 - Human-Environment Interactions
+- Digital Humanities
 organizations:
-- name: KU Leuven
+- name: VU Amsterdam
   url:
-role: Digital Archaeologist
+role: Assistan Professor in Spatial Digital Humanities
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +45,4 @@ user_groups:
 - Visitors
 ---
 
-Dries Daems is an archaeologist specializing in the Iron Age to Hellenistic Mediterranean. His research interests include the study of social complexity, urbanism, artisanal production, and human-environment interactions through computational modeling and pottery studies. He has held positions at KU Leuven, Koç University, Middle East Technical University, and University of Helsinki.
+Dries Daems is an archaeologist specializing in the Iron Age to Hellenistic Mediterranean. His research interests include social complexity, urbanism, connectivity and information exchange, artisanal production, and human-environment interactions through computational modeling and pottery studies. He is currently Assistant Professor at VU Amsterdam and Visiting Professor at Helsinki University. He has held positions at KU Leuven, Koç University, and Middle East Technical University.
