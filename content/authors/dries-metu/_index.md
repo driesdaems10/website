@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: VU Amsterdam
   url:
-role: Assistan Professor in Spatial Digital Humanities
+role: Assistant Professor in Spatial Digital Humanities
 social:
 - icon: envelope
   icon_pack: fas
